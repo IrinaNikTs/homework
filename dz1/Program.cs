@@ -2,13 +2,17 @@
 int a = 5;
 int b = 7;
 
-if(a>b) max = a;
-if(a<b) max = b;
-if(a>b) min = b;
-if(a<b) min = a;
+int max = a;
+int min = b;
 
-Console.Write("max = ");
-Console.WriteLine(max);
+if(a > b) {
+    max = a;
+    min = b;
+}
+else {
+    max = b;
+    min = a;
+}
 
-Console.Write("min = ");
-Console.WriteLine(min);
+Console.WriteLine("max = " + max);
+Console.WriteLine("min = " + min);

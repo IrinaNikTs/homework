@@ -1,0 +1,15 @@
+D:\razrabstvo\homework 320348\homework\dz1\obj\Debug\net7.0\homework.csproj.AssemblyReference.cache
+D:\razrabstvo\homework 320348\homework\dz1\obj\Debug\net7.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\razrabstvo\homework 320348\homework\dz1\obj\Debug\net7.0\homework.AssemblyInfoInputs.cache
+D:\razrabstvo\homework 320348\homework\dz1\obj\Debug\net7.0\homework.AssemblyInfo.cs
+D:\razrabstvo\homework 320348\homework\dz1\obj\Debug\net7.0\homework.csproj.CoreCompileInputs.cache
+D:\razrabstvo\homework 320348\homework\dz1\bin\Debug\net7.0\homework.exe
+D:\razrabstvo\homework 320348\homework\dz1\bin\Debug\net7.0\homework.deps.json
+D:\razrabstvo\homework 320348\homework\dz1\bin\Debug\net7.0\homework.runtimeconfig.json
+D:\razrabstvo\homework 320348\homework\dz1\bin\Debug\net7.0\homework.dll
+D:\razrabstvo\homework 320348\homework\dz1\bin\Debug\net7.0\homework.pdb
+D:\razrabstvo\homework 320348\homework\dz1\obj\Debug\net7.0\homework.dll
+D:\razrabstvo\homework 320348\homework\dz1\obj\Debug\net7.0\refint\homework.dll
+D:\razrabstvo\homework 320348\homework\dz1\obj\Debug\net7.0\homework.pdb
+D:\razrabstvo\homework 320348\homework\dz1\obj\Debug\net7.0\homework.genruntimeconfig.cache
+D:\razrabstvo\homework 320348\homework\dz1\obj\Debug\net7.0\ref\homework.dll
