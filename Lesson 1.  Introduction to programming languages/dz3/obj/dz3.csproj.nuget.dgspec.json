@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\razrabstvo\\homework 320348\\homework\\dz3\\dz3.csproj": {}
+    "D:\\razrabstvo\\homework 320348\\homework\\Lesson 1.  Introduction to programming languages\\dz3\\dz3.csproj": {}
   },
   "projects": {
-    "D:\\razrabstvo\\homework 320348\\homework\\dz3\\dz3.csproj": {
+    "D:\\razrabstvo\\homework 320348\\homework\\Lesson 1.  Introduction to programming languages\\dz3\\dz3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\razrabstvo\\homework 320348\\homework\\dz3\\dz3.csproj",
+        "projectUniqueName": "D:\\razrabstvo\\homework 320348\\homework\\Lesson 1.  Introduction to programming languages\\dz3\\dz3.csproj",
         "projectName": "dz3",
-        "projectPath": "D:\\razrabstvo\\homework 320348\\homework\\dz3\\dz3.csproj",
+        "projectPath": "D:\\razrabstvo\\homework 320348\\homework\\Lesson 1.  Introduction to programming languages\\dz3\\dz3.csproj",
         "packagesPath": "C:\\Users\\Ира\\.nuget\\packages\\",
-        "outputPath": "D:\\razrabstvo\\homework 320348\\homework\\dz3\\obj\\",
+        "outputPath": "D:\\razrabstvo\\homework 320348\\homework\\Lesson 1.  Introduction to programming languages\\dz3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ира\\AppData\\Roaming\\NuGet\\NuGet.Config",
