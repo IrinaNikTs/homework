@@ -13,3 +13,18 @@ D:\razrabstvo\homework 320348\homework\dz4\obj\Debug\net7.0\refint\dz4.dll
 D:\razrabstvo\homework 320348\homework\dz4\obj\Debug\net7.0\dz4.pdb
 D:\razrabstvo\homework 320348\homework\dz4\obj\Debug\net7.0\dz4.genruntimeconfig.cache
 D:\razrabstvo\homework 320348\homework\dz4\obj\Debug\net7.0\ref\dz4.dll
+D:\razrabstvo\homework 320348\homework\Lesson 1.  Introduction to programming languages\dz4\bin\Debug\net7.0\dz4.exe
+D:\razrabstvo\homework 320348\homework\Lesson 1.  Introduction to programming languages\dz4\bin\Debug\net7.0\dz4.deps.json
+D:\razrabstvo\homework 320348\homework\Lesson 1.  Introduction to programming languages\dz4\bin\Debug\net7.0\dz4.runtimeconfig.json
+D:\razrabstvo\homework 320348\homework\Lesson 1.  Introduction to programming languages\dz4\bin\Debug\net7.0\dz4.dll
+D:\razrabstvo\homework 320348\homework\Lesson 1.  Introduction to programming languages\dz4\bin\Debug\net7.0\dz4.pdb
+D:\razrabstvo\homework 320348\homework\Lesson 1.  Introduction to programming languages\dz4\obj\Debug\net7.0\dz4.csproj.AssemblyReference.cache
+D:\razrabstvo\homework 320348\homework\Lesson 1.  Introduction to programming languages\dz4\obj\Debug\net7.0\dz4.GeneratedMSBuildEditorConfig.editorconfig
+D:\razrabstvo\homework 320348\homework\Lesson 1.  Introduction to programming languages\dz4\obj\Debug\net7.0\dz4.AssemblyInfoInputs.cache
+D:\razrabstvo\homework 320348\homework\Lesson 1.  Introduction to programming languages\dz4\obj\Debug\net7.0\dz4.AssemblyInfo.cs
+D:\razrabstvo\homework 320348\homework\Lesson 1.  Introduction to programming languages\dz4\obj\Debug\net7.0\dz4.csproj.CoreCompileInputs.cache
+D:\razrabstvo\homework 320348\homework\Lesson 1.  Introduction to programming languages\dz4\obj\Debug\net7.0\dz4.dll
+D:\razrabstvo\homework 320348\homework\Lesson 1.  Introduction to programming languages\dz4\obj\Debug\net7.0\refint\dz4.dll
+D:\razrabstvo\homework 320348\homework\Lesson 1.  Introduction to programming languages\dz4\obj\Debug\net7.0\dz4.pdb
+D:\razrabstvo\homework 320348\homework\Lesson 1.  Introduction to programming languages\dz4\obj\Debug\net7.0\dz4.genruntimeconfig.cache
+D:\razrabstvo\homework 320348\homework\Lesson 1.  Introduction to programming languages\dz4\obj\Debug\net7.0\ref\dz4.dll
